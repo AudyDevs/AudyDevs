@@ -18,14 +18,6 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-
-Php
-
-Firebase
-MySQL
-Micro SQL
-SQLLote
-
 ### Contacto:
 [![Email](https://img.shields.io/badge/eudaldclariana@gmail.com-my_personal_email_-D14836?style=for-the-badge&logo=outlook&logoColor=white&labelColor=101010)](mailto:eudaldclariana@gmail.com)
 
