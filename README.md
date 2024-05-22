@@ -3,7 +3,7 @@
 ### 👨‍💻 Sobre mi
 💻 Desarrollador de software full-stack para aplicaciones de escritorio. 
 
-📲 Actualmente, me estoy especializando en aplicaciones Android en lenguaje Kotlin. ❤️
+📲 Actualmente, me estoy especializando en aplicaciones Android en lenguaje Kotlin.
 
 ### 🛠️ Tecnologíasc
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
