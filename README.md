@@ -1,7 +1,7 @@
 ## Hola, soy Eudald Clariana 👋
 
 ### 👨‍💻 Sobre mi
-💻 Soy desarrollador de software full-stack para aplicaciones de escritorio. 
+💻 Desarrollador de software full-stack para aplicaciones de escritorio. 
 
 📲 Actualmente me estoy especializando en aplicaciones Android en lenguaje Kotlin. ❤️
 
