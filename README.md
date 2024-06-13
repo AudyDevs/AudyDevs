@@ -10,7 +10,6 @@
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) 
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-4479A1.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![visual_Basic](https://img.shields.io/badge/visual_Basic-a08021.svg?style=for-the-badge&logo=visual-basic&logoColor=white) 
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
