@@ -8,8 +8,10 @@
 ### 🛠️ Tecnologías
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) 
+![XCode](https://img.shields.io/badge/XCode-4479A1.svg?style=for-the-badge&logo=xcode&logoColor=white) 
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Swift](https://img.shields.io/badge/swift-D14836?style=for-the-badge&logo=swift&logoColor=white) 
 ![visual_Basic](https://img.shields.io/badge/visual_Basic-a08021.svg?style=for-the-badge&logo=visual-basic&logoColor=white) 
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
